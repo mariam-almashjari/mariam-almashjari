@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Mariam Almashjari
 
-<!--
-**mariam-almashjari/mariam-almashjari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Emirati final-year Information Technology student specialising in Application Development at the Higher Colleges of Technology, Abu Dhabi. My current CGPA is 3.95, and I’m seeking an IT work placement.
 
-Here are some ideas to get you started:
+Alongside my studies, I work as an Administration Clerk at Merint L.L.C, where I coordinate schedules, maintain attendance records and support daily operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m learning and building
+
+- iOS applications with Swift, SwiftUI and local or cloud data storage.
+- Java desktop applications and object-oriented design.
+- Web applications using HTML, CSS, JavaScript, Node.js and MySQL.
+- C# and a robotics capstone project for RoboCup.
+
+## Academic projects
+
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| [WorkBrew](https://github.com/mariam-almashjari/workbrew-ios) | Café browsing, reviews and favourites | SwiftUI, SwiftData, MapKit |
+| [FitTrack Pro](https://github.com/mariam-almashjari/fittrack-pro-ios) | Workout and meal planning, step tracking | SwiftUI, Firebase, CoreMotion |
+| [Traffic Management System](https://github.com/mariam-almashjari/traffic-management-system) | Traffic-system records and desktop interfaces | Java, Swing, SQLite |
+| [Seraphine Jewelry](https://github.com/mariam-almashjari/seraphine-jewelry) | Jewellery-store web coursework | JavaScript, Express, MySQL |
+
+WorkBrew is my individual project. FitTrack Pro, Traffic Management System and Seraphine Jewelry are group projects where I contributed to development and reviewed teammates’ code for consistency and integration. Repository READMEs describe each project’s scope and limitations.
+
+## Beyond code
+
+I volunteer with the Awnak Ya Watan team and speak Arabic and English.

@@ -28,6 +28,10 @@ Developing an e-commerce website using C# and ASP.NET Core MVC. Completed first-
 ### Oasis Rescue — Group project
 Preparing Level 2’s oasis environment visuals in Unity for a UAE-themed environmental adventure game. The project is in the visual preparation stage; C# gameplay coding has not started.
 
+### RoboCup — Capstone project
+Currently working on a robotics capstone project focused on developing a robot for RoboCup.
+
+
 ## Beyond code
 
 I volunteer with the Awnak Ya Watan team and speak Arabic and English.

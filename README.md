@@ -20,6 +20,14 @@ I’m an Emirati final-year Information Technology student specialising in Appli
 
 WorkBrew is my individual project. FitTrack Pro, Traffic Management System and Seraphine Jewelry are group projects where I contributed to development and reviewed teammates’ code for consistency and integration. Repository READMEs describe each project’s scope and limitations.
 
+## Currently working on
+
+### 79themes — Group project
+Developing an e-commerce website using C# and ASP.NET Core MVC. Completed first-stage checkout and order-management views, models and basic controller actions using sample data, plus checkout validation, session messages and global error handling. Database integration and account security are planned for later stages.
+
+### Oasis Rescue — Group project
+Preparing Level 2’s oasis environment visuals in Unity for a UAE-themed environmental adventure game. The project is in the visual preparation stage; C# gameplay coding has not started.
+
 ## Beyond code
 
 I volunteer with the Awnak Ya Watan team and speak Arabic and English.

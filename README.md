@@ -1,8 +1,6 @@
 # Hi, I’m Mariam Almashjari
 
-I’m an Emirati final-year Information Technology student specialising in Application Development at the Higher Colleges of Technology, Abu Dhabi. My current CGPA is 3.95, and I’m seeking an IT work placement.
-
-Alongside my studies, I work as an Administration Clerk at Merint L.L.C, where I coordinate schedules, maintain attendance records and support daily operations.
+I’m an Emirati final-year Information Technology student specialising in Application Development at the Higher Colleges of Technology, Abu Dhabi. 
 
 ## What I’m learning and building
 
